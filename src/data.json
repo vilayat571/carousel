@@ -1,0 +1,28 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "img": "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg",
+      "name": "Mike",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt perferendis possimus vel aut, laborum vero similique consequatur unde dolor vitae nam nemo dignissimos dolorem beatae excepturi amet eligendi voluptatum error ex voluptatibus consectetur. Consectetur placeat minima aperiam totam quia maiores.      "
+    },
+    {
+      "id": 2,
+      "img": "https://img.freepik.com/premium-photo/african-father-with-son-traditional-clothes-park_151355-11794.jpg?w=2000",
+      "name": "Jak",
+      "body": "It is the first film in the It film series as well as being the second adaptation following Tommy Lee Wallace's 1990 miniseries. Development of the theatrical film adaptation of It began in March 2009 when Warner Bros. started discussing that they would be bringing it to the big screen, with David Kajganich planned to direct, before being replaced by Cary Fukunaga in June 2012. After being dropped out as the director in May 2015, Andy Muschietti was signed on to direct the film in June 2015. He talks of drawing inspiration from 1980s films such as The Goonies (1985), Stand by Me (1986) and Near Dark (1987). During the development, the film was moved to New Line Cinema division. Principal photography began in Toronto on June 27, 2016, and ended on September 21, 2016. The locations for It were in the Greater Toronto Area, including Port Hope, Oshawa, and Riverdale. Benjamin Wallfisch was hired in March 2017 to composed the film's musical score."
+    },
+    {
+      "id": 3,
+      "img": "https://images.unsplash.com/photo-1611637576109-b6f76185ec9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym95JTIwcG9zZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "name": "Yank",
+      "body": "Information technology is also a branch of computer science, which can be defined as the overall study of procedure, structure, and the processing of various types of data. As this field continues to evolve across the world, the overall priority and importance has also grown, which is where we begin to see the introduction of computer science-related courses in K-12 education.      "
+    },
+    {
+      "id": 4,
+      "img": "https://media.gettyimages.com/id/1292746976/photo/portrait-of-a-teenager-boy-in-the-farm.jpg?s=612x612&w=gi&k=20&c=VLz8nQBWF6O-dVRR1cRfZOMrlD98okihADTKZVuJY30=",
+      "name": "Norma",
+      "body": "The term is commonly used as a synonym for computers and computer networks, but it also encompasses other information distribution technologies such as television and telephones. Several products or services within an economy are associated with information technology, including computer hardware, software, electronics, semiconductors, internet, telecom equipment, and e-commerce.Based on the storage and processing technologies employed, it is possible to distinguish four distinct phases of IT developm"
+    }
+  ]
+}
